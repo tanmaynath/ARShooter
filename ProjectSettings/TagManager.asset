@@ -5,6 +5,15 @@ TagManager:
   serializedVersion: 2
   tags:
   - GameStage
+  - test_box
+  - Path
+  - Path1
+  - Path2
+  - Path3
+  - Path4
+  - Path5
+  - blue_alien
+  - green_alien
   layers:
   - Default
   - TransparentFX

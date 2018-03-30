@@ -329,7 +329,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Crosshair.cs" />
     <Compile Include="Assets\Scripts\DeployOnTap.cs" />
+    <Compile Include="Assets\Scripts\FollowPath.cs" />
     <Compile Include="Assets\Scripts\MovementBehaviour.cs" />
+    <Compile Include="Assets\Scripts\QuadBezierCurve.cs" />
+    <Compile Include="Assets\Scripts\SetPath.cs" />
+    <Compile Include="Assets\Scripts\ShootLaser.cs" />
     <Compile Include="Assets\Scripts\Spawn.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultInitializationErrorHandler.cs" />
     <Compile Include="Assets\Vuforia\Scripts\DefaultTrackableEventHandler.cs" />
